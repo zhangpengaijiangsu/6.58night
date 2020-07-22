@@ -31,7 +31,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../小张" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -55,12 +55,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595329357626</updated>
+<<<<<<< HEAD
       <workItem from="1595329358727" duration="557000" />
       <workItem from="1595382362726" duration="355000" />
+=======
+      <workItem from="1595329358727" duration="1458000" />
+>>>>>>> c8f5466b3be9fc6f19cf563c3fbc0421e2ceb63e
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1595382359219">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1595382359219" />
   </component>
 </project>
